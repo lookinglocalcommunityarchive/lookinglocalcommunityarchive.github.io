@@ -1,5 +1,5 @@
 ---
-title: Looking Local: A Community Archive
+title: Looking Local Community Archive
 layout: homepage
 permalink: /
 ---
