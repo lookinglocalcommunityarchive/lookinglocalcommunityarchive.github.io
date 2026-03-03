@@ -1,5 +1,5 @@
 ---
-title: IDAH Community Archiving Template
+title: Looking Local: A Community Archive
 layout: homepage
 permalink: /
 ---
