@@ -8,7 +8,7 @@ externalurl: https://www.acls.org/recent-fellows/?program_id=40090&_project_year
 embedurl: 
 creationdate: 2024-05-22
 type: "website"
-shortdesc: "This is an example of how to include a document (scanned or screencaptured). The development of the DigitalArc Toolkit was funded by an ACLS Digital Social Justice grant in 2024."
+shortdesc: "This is a printed letter written by Toshio Sato after graduating from Elon University."
 categories: [ News Articles, Web Pages ]
 tags: [  ]
 ---
