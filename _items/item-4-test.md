@@ -10,5 +10,5 @@ creationdate: 2024-05-22
 type: "website"
 shortdesc: "This is a printed letter written by Toshio Sato after graduating from Elon University."
 categories: [ News Articles, Web Pages ]
-tags: [  ]
+tags: [ Toshio Sato, Letter, Elon ]
 ---
