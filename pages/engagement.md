@@ -1,7 +1,7 @@
 ---
 title: Engagement
 layout: page
-permalink: /engagement
+permalink: /Engagement
 ---
 
 How does this archive work? 
