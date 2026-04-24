@@ -3,7 +3,7 @@ layout: item
 format: document
 title: "Sato Letter"
 contributor: "Avery Shipp"
-externalurl: https://www.acls.org/recent-fellows/?program_id=40090&_project_year=2024
+externalurl: 
 embedurl: 
 creationdate: 2024-05-22
 type: "Letter"
