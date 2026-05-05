@@ -15,4 +15,4 @@ If you are just here to explore and learn more, go check out the collections tab
 Do you feel like you have a story that needs to be told?
 Great! We are always excited to add new histories to the archive. 
 
-Additions can happen in a few different ways. The easiest is by filling out the contribution form, which will ask you a variety of questions designed to collect the necessary archival information on your artifact. 
+Additions can happen in a few different ways. The easiest is by filling out the contribution form, which will ask you a variety of questions designed to collect the necessary archival information on your artifact. Some of the questions will be more focused on the background information necessary for us to store data, such as the format of the item that is being contributed. Other questions will be how you want to tell the story. 
